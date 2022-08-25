@@ -3,12 +3,15 @@
 
 - 🎓 Graduate of Hack Reactor Software Engineering Immersive
 - 📫 Email me at **smithzachwilliam@gmail.com**
-- 🖇 Let's connect on **linkedin.com/in/zachsmith001**
+- 🖇 Let's connect over on **http://www.linkedin.com/in/zachsmith001**
 - 🥳 I love working together to find solutions to challenges!
 
 Working with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) is a blast!
+
 Always tweaking my ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 I'm happy building databases with ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) or ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 Staying organized with ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h3 align="left">Some of the many frameworks and libraries I've worked with:</h3>
