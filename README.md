@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Zach</h1>
-<h3 align="center">A driven fullstack software engineer</h3>
+<h3 align="center">A fun and fearless fullstack software engineer</h3>
 
 - 🎓 Graduate of Hack Reactor Software Engineering Immersive
 - 📫 Email me at **smithzachwilliam@gmail.com**
