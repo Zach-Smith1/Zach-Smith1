@@ -3,8 +3,8 @@
 
 - 🎓 Graduate of Hack Reactor Software Engineering Immersive
 - 📫 Email me at **smithzachwilliam@gmail.com**
-- 🖇 Let's connect over on **http://www.linkedin.com/in/zachsmith001**
-- 🥳 I love working together to find solutions to challenges!
+- 🖇 Let's connect over on **http://www.linkedin.com/in/zachsmithsoftware**
+- 🥳 I love working together to create solutions for complex challenges!
 
 Working with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) is a blast!
 
